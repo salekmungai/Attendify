@@ -10,5 +10,12 @@ This is a simple Django-based events application designed to manage a one-time e
 - User registration for the event
 - M-Pesa STK Push integration for event registration fee
 - Admin panel to monitor attendance and payment status
-- Registration via modal form using jQuery
+
+#Technologies used
+Python (Django).
+JQuery.
+Tailwindcss.
+Mpesa Express(STK Push).
+
+Tailwind.
 
