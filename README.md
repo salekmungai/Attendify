@@ -1,4 +1,4 @@
-# Django Events App
+# Attendify
 
 ## Overview
 
